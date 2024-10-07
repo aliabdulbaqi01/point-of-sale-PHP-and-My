@@ -1,0 +1,19 @@
+{
+    "name": "user/04_point_of_sale_oop",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App",
+            "PhpMvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aliabdulbaqi01",
+            "email": "aliabdulbaqi01@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6",
+        "symfony/var-dumper": "^7.1"
+    }
+}
